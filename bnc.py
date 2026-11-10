@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+# VERSION  : 4.5
+# SCRIPT   : EMAIL BOUNCE CHECKER
+# WEBSITE  : https://www.darkxcode.pw/
+# DOCS     : https://darkxcode.pw/docs/api#validator
+# AUTHOR   : ZLAXTERT
+# TELEGRAM : https://t.me/zlaxtert
+
 from __future__ import annotations
 
 import configparser
